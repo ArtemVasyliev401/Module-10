@@ -1,4 +1,4 @@
-package Homework_1;
+package Homework;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
